@@ -1,0 +1,16 @@
+.navbar {
+  height: 50px;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 15px;
+}
+
+.navbar__links {
+  margin-left: auto;
+  background: lightgray;
+}
+.items {
+  border: 1px solid teal;
+}
